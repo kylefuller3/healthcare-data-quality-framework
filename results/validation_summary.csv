@@ -1,0 +1,15 @@
+# Validation Summary
+
+| Metric                  | Value |
+|-------------------------|-------|
+| Timestamp               | 2026-04-01 22:36:27 |
+| Total Records           | TBD   |
+| Invalid Records         | TBD   |
+| Valid Records           | TBD   |
+| Duplicate Records       | TBD   |
+| Format Errors           | TBD   |
+| Missing Values          | TBD   |
+| Maximum Latency         | TBD   |
+| Minimum Latency         | TBD   |
+| Average Latency         | TBD   |
+| Validation Pass Rate (%)| TBD   |
