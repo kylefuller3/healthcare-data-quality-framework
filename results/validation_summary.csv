@@ -1,15 +1,9 @@
-# Validation Summary
-
-| Metric                  | Value |
-|-------------------------|-------|
-| Timestamp               | 2026-04-01 22:36:27 |
-| Total Records           | TBD   |
-| Invalid Records         | TBD   |
-| Valid Records           | TBD   |
-| Duplicate Records       | TBD   |
-| Format Errors           | TBD   |
-| Missing Values          | TBD   |
-| Maximum Latency         | TBD   |
-| Minimum Latency         | TBD   |
-| Average Latency         | TBD   |
-| Validation Pass Rate (%)| TBD   |
+check_name,result
+duplicate_patient_ids,1
+duplicate_encounter_ids,1
+missing_patient_ids,1
+invalid_or_future_dated_encounters,3
+diagnosis_records_without_matching_encounters,1
+missing_diagnosis_codes,1
+encounter_rows_with_issues,4
+encounter_issue_rate_percent,80
